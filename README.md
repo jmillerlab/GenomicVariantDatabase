@@ -1,4 +1,4 @@
-Welcome to the Genomic Variant Database Project
+# Welcome to the Genomic Variant Database Project
 
 
 
